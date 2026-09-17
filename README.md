@@ -34,23 +34,23 @@ each topic folder.
 
 ## Progress Tracker
 
-| Topic | Problems | Status |
+| Topic | Problems |
 |---|---|---|
-| Arrays | 12 | Not started |
-| Strings | 10 | Not started |
-| Two Pointers | 10 | Not started |
-| Sliding Window | 9 | Not started |
-| Binary Search | 10 | Not started |
-| Sorting & Searching | 8 | Not started |
-| Recursion & Backtracking | 10 | Not started |
-| Linked List | 10 | Not started |
-| Stack & Queue | 10 | Not started |
-| Hashing (HashMap / HashSet) | 9 | Not started |
-| Trees (Binary Tree & BST) | 11 | Not started |
-| Heap / Priority Queue | 9 | Not started |
-| Graphs | 11 | Not started |
-| Dynamic Programming | 15 | Not started |
-| Greedy Algorithms | 10 | Not started |
-| Bit Manipulation | 10 | Not started |
-| Trie (Prefix Tree) | 7 | Not started |
-| Advanced Data Structures (Segment Tree, Fenwick Tree, DSU) | 7 | Not started |
+| Arrays | 12 |
+| Strings | 10 | 
+| Two Pointers | 10 |
+| Sliding Window | 9 | 
+| Binary Search | 10 | 
+| Sorting & Searching | 8 | 
+| Recursion & Backtracking | 10 | 
+| Linked List | 10 | 
+| Stack & Queue | 10 | 
+| Hashing (HashMap / HashSet) | 9 | 
+| Trees (Binary Tree & BST) | 11 | 
+| Heap / Priority Queue | 9 |
+| Graphs | 11 | 
+| Dynamic Programming | 15 |
+| Greedy Algorithms | 10 |
+| Bit Manipulation | 10 |
+| Trie (Prefix Tree) | 7 |
+| Advanced Data Structures (Segment Tree, Fenwick Tree, DSU) | 7 | 
