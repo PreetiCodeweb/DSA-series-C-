@@ -2,6 +2,7 @@
 
 ## Overview
 Arrays are contiguous memory blocks — the foundation for almost every other data structure.
+(An array is a collection of elements of the same data type, stored in a continuous block of memory)
 Most array problems reduce to: prefix sums, two pointers, sliding window, sorting, or in-place manipulation.
 In C++, prefer `vector<int>` over raw arrays for safety and STL support.
 
